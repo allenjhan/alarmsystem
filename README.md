@@ -14,5 +14,6 @@ https://tips4java.wordpress.com/2009/07/12/table-button-column/
 
 All other code was the original work of the author.
 
+## Class diagram
 ![Class diagram](https://github.com/thalatta/alarmsystem/blob/master/project-class-diagram.png
 )
