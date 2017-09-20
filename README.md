@@ -1,5 +1,4 @@
-# alarmsystem
-Fire alarm system and security sensor system, implemented in Java Swing
+# Fire alarm system and security sensor system, implemented in Java Swing
 
 This security system uses the file alarm.wav to
 create the alarm sound. A "password.txt" file is the persistence object used
